@@ -1,7 +1,7 @@
-###Name-Comment-Script
+### Name-Comment-Script
 
-####Install
+#### Install
 
     npm install -g random-messages
 
-####Usage
+#### Usage
