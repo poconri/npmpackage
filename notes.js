@@ -18,3 +18,4 @@ despues y lo publica directamente en npm
 
 npm publish
 
+por lo que estoy viendo solo solo corro la informacion que esta en el bin y listo en este caso se guardo como "random-msg".
