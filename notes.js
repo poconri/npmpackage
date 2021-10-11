@@ -14,5 +14,7 @@ como voy a agregar la configuracion que necesito dentro del package?
 
 y como lo voy a publicar?
 
+despues y lo publica directamente en npm
 
+npm publish
 
